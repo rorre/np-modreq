@@ -1,0 +1,28 @@
+{
+  "_comments": "Discord app token",
+  "discordToken": "asdfasdfasdf",
+
+  "_comments": "IRC server address",
+  "ircServer": "cho.ppy.sh",
+
+  "_comments": "IRC server port",
+  "ircPort": "6667",
+
+  "_comments": "IRC SSL use",
+  "ircSsl": false,
+
+  "_comments": "IRC nick",
+  "ircNick": "lole",
+
+  "_comments": "IRC nick password [OPTIONAL]",
+  "ircPass": "boye",
+
+  "_comments": "Reconnect automatically when loding IRC connection",
+  "ircAutoReconnect": true,
+
+  "_comments": "Command chars to not interpret",
+  "commandChars": ["~", "!"],
+  
+  "_comments": "osu! API key",
+  "osukey": "aaaaaaaaaaaaaaaaaaaaaaaa"
+}
