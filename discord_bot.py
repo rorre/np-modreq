@@ -78,7 +78,7 @@ class DiscordWrapper(object):
         setlink = None
 
         if private:
-            target = self.bot.get_user(236478127352709121)
+            target = self.bot.get_user(self.config['owner'])
 
         for link in links:
             if link.startswith(domain + "b"):

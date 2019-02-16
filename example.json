@@ -24,5 +24,8 @@
   "commandChars": ["~", "!"],
   
   "_comments": "osu! API key",
-  "osukey": "aaaaaaaaaaaaaaaaaaaaaaaa"
+  "osukey": "aaaaaaaaaaaaaaaaaaaaaaaa",
+  
+  "_comments": "Discord UUID to send, should be at least in the same server or added as friend",
+  "owner": 203948702348023894283479186891751498,
 }
